@@ -1,0 +1,34 @@
+[
+    {
+        "package": "PUcopulaSynth",
+        "url": "https://github.com/amaendle/PUcopulaSynth"
+    },
+    {
+        "package": "dsPUcopulaClient",
+        "url": "https://github.com/bips-hb/dsPUcopulaClient"
+    },
+    {
+        "package": "dsPUcopula",
+        "url": "https://github.com/bips-hb/dsPUcopula"
+    },
+    {
+        "package": "PUcopula",
+        "url": "https://github.com/bips-hb/PUcopula"
+    },
+    {
+        "package": "mvTargetOpt",
+        "url": "https://github.com/bips-hb/mvTargetOpt"
+    },
+    {
+        "package": "mvInterpolation",
+        "url": "https://github.com/bips-hb/mvInterpolation"
+    },
+    {
+        "package": "mvGoF",
+        "url": "https://github.com/bips-hb/mvGoF"
+    },
+    {
+        "package": "ggiraphAlluvial",
+        "url": "https://github.com/amaendle/ggiraphAlluvial"
+    }
+]
