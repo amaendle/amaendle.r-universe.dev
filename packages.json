@@ -5,27 +5,27 @@
     },
     {
         "package": "dsPUcopulaClient",
-        "url": "https://github.com/bips-hb/dsPUcopulaClient"
+        "url": "https://github.com/amaendle/dsPUcopulaClient"
     },
     {
         "package": "dsPUcopula",
-        "url": "https://github.com/bips-hb/dsPUcopula"
+        "url": "https://github.com/amaendle/dsPUcopula"
     },
     {
         "package": "PUcopula",
-        "url": "https://github.com/bips-hb/PUcopula"
+        "url": "https://github.com/amaendle/PUcopula"
     },
     {
         "package": "mvTargetOpt",
-        "url": "https://github.com/bips-hb/mvTargetOpt"
+        "url": "https://github.com/amaendle/mvTargetOpt"
     },
     {
         "package": "mvInterpolation",
-        "url": "https://github.com/bips-hb/mvInterpolation"
+        "url": "https://github.com/amaendle/mvInterpolation"
     },
     {
         "package": "mvGoF",
-        "url": "https://github.com/bips-hb/mvGoF"
+        "url": "https://github.com/amaendle/mvGoF"
     },
     {
         "package": "ggiraphAlluvial",
