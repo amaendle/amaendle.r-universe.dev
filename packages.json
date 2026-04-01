@@ -30,5 +30,9 @@
     {
         "package": "ggiraphAlluvial",
         "url": "https://github.com/amaendle/ggiraphAlluvial"
+    },
+    {
+        "package": "QRMlib",
+        "url": "https://github.com/amaendle/QRMlib"
     }
 ]
