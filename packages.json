@@ -4,12 +4,12 @@
         "url": "https://github.com/amaendle/PUcopulaSynth"
     },
     {
-        "package": "dsPUcopulaClient",
-        "url": "https://github.com/bips-hb/dsPUcopulaClient"
-    },
-    {
         "package": "dsPUcopula",
         "url": "https://github.com/amaendle/dsPUcopula"
+    },
+    {
+        "package": "dsPUcopulaClient",
+        "url": "https://github.com/bips-hb/dsPUcopulaClient"
     },
     {
         "package": "PUcopula",
